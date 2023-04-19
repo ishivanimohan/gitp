@@ -4,14 +4,14 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter YOUR Name</b></label>
+    <label for="Name"><b>Enter YOUR Favorite food</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    <label for="mobile"><b>Enter YOUR mobile</b></label>
+    <label for="mobile"><b>Enter YOUR favorite car/b></label>
     <br>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
-    <label for="email"><b>Enter YOUR Email</b></label>
+    <label for="email"><b>Enter YOUR birthday</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <label for="psw"><b>Password</b></label>
