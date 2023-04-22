@@ -7,7 +7,7 @@
     <label for="Name"><b>Enter YOUR Shivani Favorite food</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    <label for="mobile"><b>Enter YOUR Shivanifavorite car/b></label>
+    <label for="mobile"><b>Enter YOUR Shifavorite car/b></label>
     <br>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
